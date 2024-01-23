@@ -30,22 +30,23 @@ Developed a robust Employee Management System using Spring Boot, providing seaml
 ## Project Setup:
 1. Clone the project repository:
    ```bash
-   git clone [GitHub Repository Link]
+   `git clone [GitHub Repository Link]`
 
 **Build and run the Spring Boot application:**
 
-**Copy code
-  cd EmployeeManagementSystem
-  mvn clean install
-  java -jar target/employee-management-system.jar
-Use Postman for testing CRUD operations on employee details.**
+Copy code
+  `cd EmployeeManagementSystem`
+  `mvn clean install`
+  `java -jar target/employee-management-system.jar`
+Use Postman for testing CRUD operations on employee details.
 
 Repository:
 [GitHub Repository Link](https://github.com/ismail877/EMS)
 
 Dependencies:
-  Spring Web
-  Spring Data JPA
+  Spring Web,
+  Spring Data JPA,
   H2 Database (for simplicity, can be replaced with a different database)
+
 Contributors:
 Ismail Rahman
